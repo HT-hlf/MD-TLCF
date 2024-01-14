@@ -1,0 +1,26 @@
+<annotation>
+	<folder>depth</folder>
+	<filename>RGBD_r_13_474.jpg</filename>
+	<path>G:\roadway_collect_dataset\recordData_process\RGBD_r_13\depth\RGBD_r_13_474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>775</width>
+		<height>532</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>270</ymin>
+			<xmax>261</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

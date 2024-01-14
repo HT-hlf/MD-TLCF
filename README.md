@@ -1,8 +1,18 @@
 # MD-TLCF: Miner Distance Detection Based on Tracking Low-confidence Filter
 
+![Tracking_Confidence_Filter_v12](README.assets/Tracking_Confidence_Filter_v12.png)
+
 ## Code
 
-The code will be made public after acceptance of the paper.
+The model is available at the link: https://pan.baidu.com/s/1qJwykWsbm9v5njh2nN3RGw?pwd=qqmw  (extraction code：qqmw ) 
+
+- miner distance detection inference
+
+  ```
+  python inference.py
+  ```
+
+  ![demo](README.assets/demo.gif)
 
 ## Dataset
 
